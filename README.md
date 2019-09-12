@@ -2,7 +2,7 @@
 Dive into Deep Learning with Tensorflow2.0.      
 《动手学深度学习》原书所有内容都是基于MXNet框架，本仓库在尽量保持原书内容的基础上将其转换成基于Tensorflow 2.0框架（包括文档和代码）。持续更新中......
 <div align=center>
-<img width="500" src="./img/cover.png" alt="封面"/>
+<img width="500" src="http://zh.d2l.ai/_images/frontpage/front.png" alt="封面"/>
 </div>
 
 ## 简介
